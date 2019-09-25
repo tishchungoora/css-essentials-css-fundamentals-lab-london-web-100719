@@ -28,7 +28,7 @@ figcaption {
   text-align: center;
 }
 
-#details nav {
+#details div {
   display: block;
   float: left;
   background-color: red;
