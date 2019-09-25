@@ -27,3 +27,10 @@ figcaption {
   margin: auto;
   text-align: center;
 }
+
+#details nav {
+  display: block;
+  float: left;
+  background-color: red;
+  width: 25%;
+}
